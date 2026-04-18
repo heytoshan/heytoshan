@@ -157,7 +157,7 @@ Let's build something awesome together 🚀
 
 </div>
 =======
-## Hi there 👋
+
 
 <!--
 **heytoshan/heytoshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -173,4 +173,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 623188a021b2f1da0c4bb6d551581df0b060d368
