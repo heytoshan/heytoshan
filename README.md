@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there,%20I'm%20Toshan!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
@@ -157,19 +156,8 @@ Let's build something awesome together 🚀
 
 </div>
 
+---
 
+## 📄 License
 
-<!--
-**heytoshan/heytoshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
