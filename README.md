@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**Computer Science Student | MERN Stack Developer | DSA Enthusiast**
+**Computer Science Student| MERN Stack Developer | DSA Enthusiast**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+%2B+Full+Stack+Projects;Solving+DSA+Problems+in+C%2B%2B;Learning+AI%2FML+Development"/>
 
