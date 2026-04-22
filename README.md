@@ -110,15 +110,6 @@ Let's build something awesome together 🚀
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=heytoshan&theme=onedark&no-frame=true&margin-w=10"/>
-
-</div>
-
----
 
 # Let's Connect
 
