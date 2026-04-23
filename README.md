@@ -22,7 +22,7 @@ Currently diving deeper into:
 * **C++ Development**
 * **Artificial Intelligence & Machine Learning**
 
-Let's build something awesome together 🚀
+Let's build something awesome together 🚀 🚀
 
 ---
 
